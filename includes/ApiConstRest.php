@@ -121,10 +121,10 @@
 		define('LINK_FORMAT', 'link_format');
 		define('REVIEW_STATE', 'review_state');
 		define('TRACKING_CATEGORY', 'tracking_category');
-		define('MONTH', 'month');
-		define('DAY', 'day');
-		define('YEAR', 'year');
-		define('DAY_OF_WEEK', 'day_of_week');
+		#define('MONTH', 'month');
+		#define('DAY', 'day');
+		#define('YEAR', 'year');
+		#define('DAY_OF_WEEK', 'day_of_week');
 		define('APPLICATION', 'application');
 		define('MEDIA_SLOT', 'media_slot');
 
