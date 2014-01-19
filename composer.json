@@ -1,0 +1,24 @@
+{
+    "name": "zanox/api_client_php",
+    "description": "A PHP client for the Zanox API",
+    "type": "library",
+    "homepage": "http://wiki.zanox.com/en/Web_Services",
+    "license": "proprietary",
+    "authors": [
+    	{
+    		"name": "Thomas Nicolai",
+		"email": "thomas.nicolai@sociomantic.com",
+    		"role": "Author"
+    	},
+    	{
+    		"name": "Lars Kirchhoff",
+		"email": "lars.kirchhoff@sociomantic.com",
+    		"role": "Author"
+    	}
+    ],
+    "require": {
+    	"php": ">=5.0.0",
+    	"composer/installers": "*"
+    }
+}
+
