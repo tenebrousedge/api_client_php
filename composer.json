@@ -17,14 +17,14 @@
     	}
     ],
     "require": {
-	"pear-pear.php.net/Crypt_HMAC2": "*",
+	"pear/Crypt_HMAC2": "dev-trunk",
     	"php": ">=5.0.0",
     	"composer/installers": "*"
     },
 	"repositories": [
 		{
-		"type": "pear",
-		"url":"http://pear.php.net"	
+		"type": "git",
+		"url":"https://github.com/pear/Crypt_HMAC2.git"	
 		}
 	]
 }
